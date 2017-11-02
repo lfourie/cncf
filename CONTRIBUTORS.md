@@ -26,6 +26,7 @@ List below is the official list of TOC contributors, in alphabetical order:
 * Alex Chircop, StorageOS (alex.chircop@storageos.com)
 * Gergely Csatari, Nokia (gergely.csatari@nokia.com)
 * Doug Davis, IBM (dug@us.ibm.com)
+* Louis Fourie, Huawei (louis.fourie@huawei.com)
 * Lachlan	Evenson, Microsoft (lachlan.evenson@microsoft.com)
 * Yaron Haviv, iguazio (yaronh@iguaz.io)
 * Quinton Hoole, Huawei (quinton.hoole@huawei.com)
