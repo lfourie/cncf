@@ -14,7 +14,7 @@ The CNCF TOC is the technical governing body of the CNCF Foundation. It admits a
 * **Brian Grant** (term: 2 years - start date: 3/17/2016)
 * **Benjamin Hindman** (term: 3 years - start date: 1/29/2016)
 * **Solomon Hykes** (term: 2 years - start date: 3/17/2016)
-* **Elissa Murphy** (term: 2 years - start date: 3/11/2016)
+* **Sam Lambert** (term: 16 months - start date: 10/2/2017)
 * **Ken Owens** (term: 3 years - start date: 1/29/2016)
 * **Alexis Richardson** (term: 3 years - start date: 1/29/2016)
 
@@ -37,9 +37,9 @@ The TOC has created the following working groups to investigate and discuss the 
 | Working Group | Chair            | Meeting Time                          | Minutes/Recordings |
 |---------------|------------------|---------------------------------------|--------------------|
 | [CI](https://github.com/cncf/wg-ci)         | Camille Fournier | [2nd and 4th Tue every month at 8AM PT](https://zoom.us/j/199346891) | [Youtube](https://www.youtube.com/playlist?list=PLj6h78yzYM2P3_A3ujWHSxOu1IO_bd7Zi)
-| [Networking](https://github.com/cncf/wg-networking) | Ken Owens        |  [1st and 3rd Tue every month at 8AM PT](https://zoom.us/j/175547218)                                      | [Youtube](https://www.youtube.com/playlist?list=PLj6h78yzYM2M_-K5n67_zTdrPh_PtTKFC)
-| [Serverless](https://github.com/cncf/wg-serverless) | Ken Owens        |  [1st and 3rd Thu of every month at 9AM PT](https://zoom.us/j/893315636)                                     | [Youtube](https://www.youtube.com/playlist?list=PLj6h78yzYM2Ph7YoBIgsZNW_RGJvNlFOt)
-| [Storage](https://github.com/cncf/wg-storage)    | Ben Hindman      |  [3rd Wed of every month at 8AM PT](https://zoom.us/j/158580155)                                     | [Youtube](https://www.youtube.com/playlist?list=PLj6h78yzYM2NoiNaLVZxr-ERc1ifKP7n6)
+| [Networking](https://github.com/cncf/wg-networking) | Ken Owens        |  [1st and 3rd Tue every month at 9AM PT](https://zoom.us/j/999936723)                                      | [Youtube](https://www.youtube.com/playlist?list=PLj6h78yzYM2M_-K5n67_zTdrPh_PtTKFC)
+| [Serverless](https://github.com/cncf/wg-serverless) | Ken Owens        |  [Thu of every week at 9AM PT](https://zoom.us/j/893315636)                                     | [Youtube](https://www.youtube.com/playlist?list=PLj6h78yzYM2Ph7YoBIgsZNW_RGJvNlFOt)
+| [Storage](https://github.com/cncf/wg-storage)    | Ben Hindman      |  [2nd and 4th Wed every month at 8AM PT](https://zoom.us/j/158580155)                                     | [Youtube](https://www.youtube.com/playlist?list=PLj6h78yzYM2NoiNaLVZxr-ERc1ifKP7n6)
 
 All meetings are on the public CNCF calendar: https://goo.gl/eyutah
 
@@ -76,11 +76,13 @@ Here is a link to a World Time Zone Converter here http://www.thetimezoneconvert
 [Linkerd](https://linkerd.io/)|Jonathan Boulle|[10/5/16](https://docs.google.com/presentation/d/19aamsOR__zGFNNFCmid2TjaJwEqNOXmHRa34EQwf3sA/edit#slide=id.g181e6fdb33_0_0)|[1/23/17](https://www.cncf.io/blog/2017/01/23/linkerd-project-joins-cloud-native-computing-foundation)|Inception
 [gRPC](http://www.grpc.io/)|Brian Grant|[10/19/16](https://docs.google.com/presentation/d/16mNYaqgd7BaV50OnbcuQ1zRHpWoUKhL3XHvCJwEm8CE/edit#slide=id.g185c09339a_23_106)|[2/16/17](https://www.cncf.io/blog/2017/03/01/cloud-native-computing-foundation-host-grpc-google)|Incubating
 [CoreDNS](https://coredns.io/)|Jonathan Boulle|[8/17/16](https://docs.google.com/presentation/d/1LPvM44Pi7gletiDs40P7XmTKJLez5nz88ObYCHrHal8/edit?usp=sharing)|[2/27/17](https://www.cncf.io/blog/2017/03/02/cloud-native-computing-foundation-becomes-steward-service-naming-discovery-project-coredns)|Inception
-[containerd](https://containerd.io/)|Brian Grant|[3/15/17](https://docs.google.com/presentation/d/1qmGsmARyMhRLwbFWG7LXJSsDHm45nqZ_QtBv5SnQL54/edit?usp=sharing)|[3/29/17](https://www.cncf.io/announcement/2017/03/29/containerd-joins-cloud-native-computing-foundation/)|Incubation
-[rkt](http://rkt.io)|Brian Grant|[3/15/17](https://docs.google.com/presentation/d/1KzA58_Zz30mKKzeLuSvXLh63aIC75KRdAOTw4PJ_10g/edit?usp=sharing)|[3/29/17](https://www.cncf.io/announcement/2017/03/29/cloud-native-computing-foundation-becomes-home-pod-native-container-engine-project-rkt/)|Incubation
-[CNI](https://github.com/containernetworking/cni)|Ken Owens|[5/3/17](https://docs.google.com/presentation/d/1flQXWp1NQg_FdiLQ0MzKw5QACIwR1i939a-FD74imxk/edit#slide=id.g217fd51990_0_140)|[5/23/17](https://www.cncf.io/blog/2017/05/23/cncf-hosts-container-networking-interface-cni/)|Incubation
-[Envoy](https://github.com/envoyproxy/envoy)|Alexis Richardson|[8/15/17](https://goo.gl/iSP394)|[9/13/17](https://www.cncf.io/blog/2017/09/13/cncf-hosts-envoy/)|Incubation
-[Jaeger](https://github.com/jagertracing/jaeger)|Bryan Cantrill|[8/1/17](https://goo.gl/ehtgts)|[9/13/17](https://www.cncf.io/blog/2017/09/13/cncf-hosts-jaeger/)|Incubation
+[containerd](https://containerd.io/)|Brian Grant|[3/15/17](https://docs.google.com/presentation/d/1qmGsmARyMhRLwbFWG7LXJSsDHm45nqZ_QtBv5SnQL54/edit?usp=sharing)|[3/29/17](https://www.cncf.io/announcement/2017/03/29/containerd-joins-cloud-native-computing-foundation/)|Incubating
+[rkt](http://rkt.io)|Brian Grant|[3/15/17](https://docs.google.com/presentation/d/1KzA58_Zz30mKKzeLuSvXLh63aIC75KRdAOTw4PJ_10g/edit?usp=sharing)|[3/29/17](https://www.cncf.io/announcement/2017/03/29/cloud-native-computing-foundation-becomes-home-pod-native-container-engine-project-rkt/)|Incubating
+[CNI](https://github.com/containernetworking/cni)|Ken Owens|[5/3/17](https://docs.google.com/presentation/d/1flQXWp1NQg_FdiLQ0MzKw5QACIwR1i939a-FD74imxk/edit#slide=id.g217fd51990_0_140)|[5/23/17](https://www.cncf.io/blog/2017/05/23/cncf-hosts-container-networking-interface-cni/)|Incubating
+[Envoy](https://github.com/envoyproxy/envoy)|Alexis Richardson|[8/15/17](https://goo.gl/iSP394)|[9/13/17](https://www.cncf.io/blog/2017/09/13/cncf-hosts-envoy/)|Incubating
+[Jaeger](https://github.com/jaegertracing/jaeger)|Bryan Cantrill|[8/1/17](https://goo.gl/ehtgts)|[9/13/17](https://www.cncf.io/blog/2017/09/13/cncf-hosts-jaeger/)|Incubating
+[Notary](https://github.com/docker/notary)|Solomon Hykes|[6/20/17](https://goo.gl/6nmyDn)|[10/24/17](https://www.cncf.io/announcement/2017/10/24/cncf-host-two-security-projects-notary-tuf-specification/)|Incubating
+[TUF](https://github.com/theupdateframework)|Solomon Hykes|[6/20/17](https://goo.gl/6nmyDn)|[10/24/17](https://www.cncf.io/announcement/2017/10/24/cncf-host-two-security-projects-notary-tuf-specification/)|Incubating
 
 ## Scheduled Community Presentations
 
@@ -111,9 +113,10 @@ If you're interested in presenting at a TOC call about your project, please open
 * **September 5, 2017**: gluster-kubernetes and Storage WG readout
 * **September 19, 2017**: TBD
 * **October 3, 2017**: NATS.io revisited
-* **October 17, 2017**: TBD (interested presenters contact cra@linuxfoundation.org or open up a github [issue](https://github.com/cncf/toc/issues)
-* **November 7, 2017**: SPIFFE.io
-* **November 21, 2017**: Project Graduation Reviews (Kubernetes, Prometheus)
+* **October 17, 2017**: TOC Principles / GB (Todd Moore) and OpenMetrics Update
+* **November 7, 2017**: Istio, SPIFFE.io and Serverless WG
+* **November 14, 2017**: [OPA](http://www.openpolicyagent.org/) and Storage WG/CSI and Project Graduation/Health Reviews (Kubernetes, Prometheus)
+* **December 5, 2017**: TBD (interested presenters contact cra@linuxfoundation.org or open up a github [issue](https://github.com/cncf/toc/issues)
 
 ## Meeting Minutes
 
@@ -149,8 +152,11 @@ If you're interested in presenting at a TOC call about your project, please open
 * [May 3rd, 2017](https://docs.google.com/presentation/d/1flQXWp1NQg_FdiLQ0MzKw5QACIwR1i939a-FD74imxk/edit#slide=id.g217fd51990_0_140)
 * [May 16th, 2017](https://docs.google.com/presentation/d/1SHfBDI3YeyCTJ3ZrGoc0S4EmfHsUVW2jMmXmcYQe96E/edit?usp=sharing)
 * [June 6th, 2017](https://docs.google.com/presentation/d/1Lzy94UNzdSXkqZCvrwjkcChKpU8u2waDqGx_Sjy5eJ8/edit?usp=sharing)
-* [June 20th, 2017](https://docs.google.com/presentation/d/1MvCZytMQpTgGW4IvJ1cM0hvnIr8IowH7hFaeXJZ6cp4/edit#slide=id.gd5ae4e962_2_136)
+* [June 20th, 2017](https://goo.gl/6nmyDn)
 * [July 11th, 2017](https://docs.google.com/presentation/d/1bSP9UmxLP4gBu9kzxrqZCahDGS8JcsHFh1CawVtZOTY/edit#slide=id.gd5ae4e962_2_136)
 * [August 1st, 2017](https://goo.gl/ehtgts)
 * [August 15th, 2017](https://goo.gl/iSP394)
 * [September 5th, 2017](https://goo.gl/WbKUmd)
+* [Setember 19th, 2017](https://goo.gl/cgx9j2)
+* [October 3rd, 2017](https://goo.gl/nsYz4j)
+* [October 17th, 2017](https://goo.gl/hH6fS4)
